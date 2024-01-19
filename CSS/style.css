@@ -1,0 +1,22 @@
+body{
+    background: rgb(41, 39, 39);
+    color: white;
+    overflow: auto;
+}
+section{
+    background: black;
+}
+section div{
+    width: 500px;
+    height: 200px;
+    overflow:auto;
+    overflow-wrap:break-word;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+}
+#uno{
+    background: violet;
+}
+#dos{
+    background: goldenrod;
+}
